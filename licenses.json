@@ -1,0 +1,20 @@
+{
+  "_comment": "WGF Firework Autofarm - Whitelist Licenze Online",
+  "_info": "Aggiungi qui gli UUID (con o senza trattini) o i nomi utente autorizzati ad utilizzare l'addon.",
+  "users": [
+    "Galaxy_anto",
+    "0cd6deb9-1b20-4500-abc4-ccf4fa174a2f"
+  ],
+  "licenses": {
+    "Federico": {
+      "tier": "LIFETIME",
+      "expiry": 0,
+      "note": "Licenza illimitata sviluppatore"
+    },
+    "069a79f4-44e9-4726-a5be-fca90e38aaf5": {
+      "tier": "VIP",
+      "expiry": 1893456000000,
+      "note": "Licenza annuale"
+    }
+  }
+}
